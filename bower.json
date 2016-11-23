@@ -1,0 +1,21 @@
+{
+  "name": "blockly-events",
+  "homepage": "https://github.com/HendrikD/blockly-events.git",
+  "authors": [
+    "Hendrik <diel.hendrik@gmail.com>"
+  ],
+  "description": "Small blockly event helper",
+  "main": "events.js",
+  "keywords": [
+    "Google",
+    "Blockly"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
