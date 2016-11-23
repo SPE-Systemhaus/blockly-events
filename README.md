@@ -7,5 +7,3 @@
     - BlocklyPlugins.Events.beforeUnload(cb)
     - BlocklyPlugins.Events.ready(cb)
     - BlocklyPlugins.Events.docReady(cb)
-
-test
