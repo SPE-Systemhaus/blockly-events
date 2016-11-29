@@ -2,13 +2,13 @@
 
 This Blockly plugin tries to improve blockl's native event system by providing an additional Event-API. 
 
-# Install with Bower
+## Install with Bower
 
 ```
 bower install --save blockly-events
 ```
 
-# Add to HTML
+## Add to HTML
 
 Add `events.js` to your `index.html` before all scripts, you want to use the Events in but *after all the other blockly scripts*.
 
@@ -17,7 +17,7 @@ Add `events.js` to your `index.html` before all scripts, you want to use the Eve
 ```
 
 
-# Usage
+## Usage
 This plugin is mostly developed for usage in our products which are running in an embedded chromium and don't need
 to work in other browsers. So beware that it might not work as intended in other browsers.
 
